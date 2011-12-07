@@ -1,0 +1,12 @@
+diff -up brasero-2.28.3/help/brasero.omf.in.doc-category brasero-2.28.3/help/brasero.omf.in
+--- brasero-2.28.3/help/brasero.omf.in.doc-category	2010-05-03 16:55:13.232193486 -0400
++++ brasero-2.28.3/help/brasero.omf.in	2010-05-03 16:55:25.095182522 -0400
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" standalone="no"?>
+ <omf>
+   <resource>
+-    <subject category="GNOME|Applications|Sound and Video"/>
++    <subject category="GNOME|Multimedia"/>
+     <type>manual</type>
+     <relation seriesid="e598da9a-cac2-11dc-9a51-a5e81ce6f0a9"/>
+     <rights type="GNU FDL" license.version="1.1" holder="Phil Bull"/>
